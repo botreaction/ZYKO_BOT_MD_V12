@@ -41,31 +41,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // if you don't have it, type "-" or leave it alone so there are credits :v
 
-global.sig = 'https://instagram.com/zzyko_04'
-global.sgh = 'https://github.com/ZykoMD'
-global.sgc = 'https://chat.whatsapp.com/HQy6bLpnrYs2OnPY3r6Bq4'
-global.sdc = 'https://www.discord.com'
-global.snh = 'https://youtu.be/0I8MBnCuuzs'
-global.sfb = 'https://www.facebook.com/ZykoBotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.sig = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
+global.sgh = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
+global.sgc = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
+global.sdc = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
+global.snh = 'https://youtube.com/@ukosamasomoni1956'
+global.sfb = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
+global.syt = 'https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l'
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852-1264-9276'
-global.povo = '0852-1264-9276'
-global.pgopay = '0852-1264-9276'
-global.plinkaja = '0852-1264-9276'
-global.ppulsa = '0852-1264-9276' 
-global.ppulsa2 = '0831-3332-9293'
-global.psaweria = 'https://saweria.co/Zykomd'
+global.pdana = '6289688206739'
+global.povo = '6289688206739'
+global.pgopay = '6289688206739'
+global.plinkaja = '6289688206739'
+global.ppulsa = '6289688206739' 
+global.ppulsa2 = '6289688206739'
+global.psaweria = 'https://saweria.co/hehe'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXX'
-global.nomorown = '6283133329293'
-global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
-global.email = 'zykobotmdofficial@gmail.com' 
+global.nomorbot = '6289688206739'
+global.nomorown = '6289688206739'
+global.namebot = 'HEN MD'
+global.nameown = 'WIILY KUN'
+global.email = 'kunwily1994@gmail.com' 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'ZykoBotz-MD'
+global.namagithub = 'ZXC-MD'
 global.linkgithub = sgh
 
 /*============== CREATE PANEL ==============*/
@@ -80,7 +80,7 @@ global.lolkey = pickRandom(["e54205a4ca2caa368cc067bb", "8e66d0934cf741bfd2182c1
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true]
+  ['6289688206739', 'WILY KUN', true]
 ]
 global.mods = [] 
 global.prems = [] 
@@ -125,14 +125,14 @@ global.APIKeys = {
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ZYKOBOTZ MD 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZYKOBOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ ZYKOBOTZ MD"
+global.wm = '                「 WILY KUN 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WILY MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "⫹⫺ WILY MD"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
+global.titlebot = `⫹⫺ WhatsApp Bot | By WILY KUN`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "ZYKOBOTZ MD 乂 ZYKO MD"
+global.author = "WILY KUN 乂 ZYKO MD"
 global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴢʏᴋᴏ ᴍᴅ ッ'
 /*Fake*/
 global.fsizedoc = SizeDoc()
@@ -3575,7 +3575,7 @@ global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", 
 global.hsquere = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", "⬟", "⛊", "⚝"])
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ZYKOBOTZ MD'
+global.stickpack = 'WILY KUN'
 global.stickauth = `By ©ZYKO MD`
 
 global.multiplier = 69 
