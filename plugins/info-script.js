@@ -2,8 +2,7 @@ import fetch from 'node-fetch'
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 
 let str = `
-🚩 This bot uses the Script from the ZYKO BOTZ MD channel. Please visit the YouTube link below:
-https://www.youtube.com/@zykobotz
+🚩 This bot uses the Script from the ZYKO 🗿
 
 owner contact
 wa.me/6282127487538`

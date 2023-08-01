@@ -37,7 +37,7 @@ mediaUrl: sgc,
 description: 'simple bot esm',
 previewType: "PHOTO",
 thumbnail: await (await fetch(pp)).buffer(),
-sourceUrl: "https://instagram.com/zzyko_04",
+sourceUrl: "https://chat.whatsapp.com/DsoyWL6GEr14AmHNx8MO7l",
 }
 }
 }

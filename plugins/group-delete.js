@@ -15,6 +15,6 @@ handler.help = ['delete']
 handler.tags = ['info']
 handler.command = /^(del|delete|unsend?)$/i
 handler.limit = false
-handler.admin = true
+handler.admin = false
 
 export default handler
