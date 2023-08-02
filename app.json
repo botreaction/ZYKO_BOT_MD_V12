@@ -1,7 +1,18 @@
 {
-  "name": "games-wabot",
-  "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/BochilGaming/games-wabot",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"]
+  "name": "zykov12",
+  "description": "s",
+  "repository": "https://github.com/botreaction/ZYKO_BOT_MD_V12",
+  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
 }
